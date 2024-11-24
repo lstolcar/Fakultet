@@ -5,7 +5,7 @@ from IPython import display
 
 
 class zica:
-    def __init__(self,L,d,h,v=343):
+    def __init__(self,L,d,h,v=405):
         self.L=L
         self.d=d
         self.h=h
